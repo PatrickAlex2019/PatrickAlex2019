@@ -7,8 +7,8 @@
 
 ### Programming language
 [![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=Android&logoColor=white)](#)
-[![Smali](https://img.shields.io/badge/-Smali-7F52FF?style=flat&logo=&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](#)
+[![Smali](https://img.shields.io/badge/-Smali-7F52FF?style=flat&logo=&logoColor=white)](#)
 
 Good at reverse compilation and development, translation and modification of Android software, redesign of application interface
 
