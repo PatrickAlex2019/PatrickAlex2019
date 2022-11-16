@@ -1,14 +1,14 @@
 ### Specialties
 
-[![Design](https://img.shields.io/badge/-Design-29B6F6?style=flat&logo=java&logoColor=white)](#)
-[![Electrical](https://img.shields.io/badge/-Electrical-FF3D00?style=flat&logo=java&logoColor=white)](#)
-[![Mechanical](https://img.shields.io/badge/-Mechanical-90A4AE?style=flat&logo=java&logoColor=white)](#)
-[![Simulation](https://img.shields.io/badge/-Simulation-9CCC65?style=flat&logo=java&logoColor=white)](#)
+[![Design](https://img.shields.io/badge/-Design-29B6F6?style=flat&logo=Design&logoColor=white)](#)
+[![Electrical](https://img.shields.io/badge/-Electrical-FF3D00?style=flat&logo=Electrical&logoColor=white)](#)
+[![Mechanical](https://img.shields.io/badge/-Mechanical-90A4AE?style=flat&logo=Mechanical&logoColor=white)](#)
+[![Simulation](https://img.shields.io/badge/-Simulation-9CCC65?style=flat&logo=Simulation&logoColor=white)](#)
 
 ### Programming language
 [![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=Android&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](#)
-[![Smali](https://img.shields.io/badge/-Smali-7F52FF?style=flat&logo=&logoColor=white)](#)
+[![Smali](https://img.shields.io/badge/-Smali-7F52FF?style=flat&logo=Small&logoColor=white)](#)
 
 Good at reverse compilation and development, translation and modification of Android software, redesign of application interface
 
@@ -36,9 +36,9 @@ Good at reverse compilation and development, translation and modification of And
          height="150em"
          src="https://activity-graph.herokuapp.com/graph?username=PatrickAlex2019&custom_title=My%20Activity%20Graph!&hide_border=true&bg_color=0D1117&line=fff&point=fff&theme=github" />
   </a>
-</p>
 
-<p align="center">
+### Rating
+
   <a href="https://github.com/PatrickAlex2019">
     <img
       align="center"
