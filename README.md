@@ -17,15 +17,17 @@ Good at reverse compilation and development, translation and modification of And
 [![PLC](https://img.shields.io/badge/-PLC-CE93D8?style=flat&logo=&logoColor=white)](#)
 [![CAD](https://img.shields.io/badge/-CAD-FFB74D?style=flat&logo=&logoColor=white)](#)
 
-### Data Count
+### Visit Count
 ![LoliCount](https://count.getloli.com/get/@PatrickAlex2019?theme=asoul)
 
+### Current Streak
  <a href="https://github.com/PatrickAlex2019">
     <img align="center"
          height="150em"
          src="https://github-readme-streak-stats.herokuapp.com/?user=PatrickAlex2019&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" />
  </a>
 
+### Used languages
  <a href="https://github.com/PatrickAlex2019">
     <img align="center"
          height="150em"
@@ -33,14 +35,14 @@ Good at reverse compilation and development, translation and modification of And
     />
  </a>
 
+### My Activity Graph
  <a href="https://github.com/PatrickAlex2019">
     <img align="center"
          height="150em"
-         src="https://activity-graph.herokuapp.com/graph?username=PatrickAlex2019&custom_title=My%20Activity%20Graph!&hide_border=true&bg_color=0D1117&line=fff&point=fff&theme=github" />
+         src="https://activity-graph.herokuapp.com/graph?username=PatrickAlex2019&custom_title=Patrick%20Alex&hide_border=true&bg_color=0D1117&line=fff&point=fff&theme=github" />
   </a>
 
 ### Rating
-
   <a href="https://github.com/PatrickAlex2019">
     <img
       align="center"
