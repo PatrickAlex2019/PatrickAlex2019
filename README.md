@@ -17,5 +17,31 @@ Good at reverse compilation and development, translation and modification of And
 [![PLC](https://img.shields.io/badge/-PLC-CE93D8?style=flat&logo=&logoColor=white)](#)
 [![CAD](https://img.shields.io/badge/-CAD-FFB74D?style=flat&logo=&logoColor=white)](#)
 
-### Visit Count
+### Data Count
 ![LoliCount](https://count.getloli.com/get/@PatrickAlex2019?theme=asoul)
+
+ <a href="https://github.com/PatrickAlex2019">
+    <img align="center"
+         height="150em"
+         src="https://github-readme-streak-stats.herokuapp.com/?user=PatrickAlex2019&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" />
+ </a>
+ <a href="https://github.com/PatrickAlex2019">
+    <img align="center"
+         height="150em"
+         src="https://github-readme-stats.vercel.app/api/top-langs?username=PatrickAlex2019&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact"
+    />
+ </a>
+ <a href="https://github.com/PatrickAlex2019">
+    <img align="center"
+         height="150em"
+         src="https://activity-graph.herokuapp.com/graph?username=PatrickAlex2019&custom_title=My%20Activity%20Graph!&hide_border=true&bg_color=0D1117&line=fff&point=fff&theme=github" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/PatrickAlex2019">
+    <img
+      align="center"
+      src="https://github-profile-trophy.vercel.app/?username=PatrickAlex2019&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
+  </a>
+</a>
