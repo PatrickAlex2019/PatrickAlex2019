@@ -15,9 +15,9 @@ Good at reverse compilation and development, translation and modification of And
 [![CAD](https://img.shields.io/badge/-CAD-FFB74D?style=flat&logo=&logoColor=white)](#)
 
 ### Compile & Draw tools used
-Windows:Visual Studio、Photo Demon、Solid Works、Jadx、IDA、Figma、Penpot
+Windows:Visual Studio,Photo Demon,Solid Works,Jadx,IDA,Figma,Penpot
 
-Android:MT Manager、APK Editor、APK TOOL M、NP Manager、Photo Editor
+Android:MT Manager,APK Editor,APK TOOL M,NP Manager,Photo Editor
 
 ### Visit Count
 ![LoliCount](https://count.getloli.com/get/@PatrickAlex2019?theme=asoul)
