@@ -11,8 +11,9 @@
 Good at reverse compilation and development, translation and modification of Android software, redesign of application interface
 
 ### WIP
-[![PLC](https://img.shields.io/badge/-PLC-CE93D8?style=flat&logo=&logoColor=white)](#)
-[![CAD](https://img.shields.io/badge/-CAD-FFB74D?style=flat&logo=&logoColor=white)](#)
+[![PLC](https://img.shields.io/badge/-PLC-CE93D8?style=flat&logo=PLC&logoColor=white)](#)
+[![CAD](https://img.shields.io/badge/-CAD-FFB74D?style=flat&logo=CAD&logoColor=white)](#)
+[![Solid%20Works](https://img.shields.io/badge/-Solid%20Works-FFCA28?style=flat&logo=Solid%20Works&logoColor=white)](#)
 
 ### Compile & Draw tools used
 Windows:Visual Studio,Photo Demon,Solid Works,Jadx,IDA,Figma,Penpot
