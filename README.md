@@ -38,13 +38,6 @@ Android:MT Manager,APK Editor,APK TOOL M,NP Manager,Photo Editor
     />
  </a>
 
-### My Activity Graph
- <a href="https://github.com/PatrickAlex2019">
-    <img align="center"
-         height="150em"
-         src="https://activity-graph.herokuapp.com/graph?username=PatrickAlex2019&custom_title=Patrick%20Alex&hide_border=true&bg_color=0D1117&line=fff&point=fff&theme=github" />
-  </a>
-
 ### Rating
   <a href="https://github.com/PatrickAlex2019">
     <img
