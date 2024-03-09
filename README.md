@@ -47,10 +47,12 @@ Android:MT Manager,APK Editor,APK TOOL M,NP Manager,Photo Editor
   </a>
 </a>
 
+### Stats
 ![PatrickAlex's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickAlex2019&show_icons=true&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickAlex2019&layout=compact&langs_count=10&theme=radical)
-# 📱 Devices
+
+### Devices
 ![Windows 11 PC](https://img.shields.io/badge/Windows%2011-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
-# 💻 Environment
+
+### Environment
 ![Windows](https://img.shields.io/badge/Windows%2011-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
 ![WSL2](https://img.shields.io/badge/Ubuntu%2022%2e04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
