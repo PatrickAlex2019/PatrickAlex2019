@@ -17,12 +17,9 @@ Good at reverse compilation and development, translation and modification of And
 [![Solid%20Works](https://img.shields.io/badge/-Solid%20Works-FFCA28?style=flat&logo=Solid%20Works&logoColor=white)](#)
 
 ### Compile & Draw tools used
-Windows: Visual Studio,Photo Demon,Solid Works,Jadx,IDA,Figma,Penpot
+Windows: Android Studio,Visual Studio,Photo Demon,Solid Works,Jadx,IDA,Figma
 
 Android: MT Manager,APK Editor,APK TOOL M,NP Manager,Photo Editor
-
-### Visit Count
-![LoliCount](https://count.getloli.com/get/@PatrickAlex2019?theme=asoul)
 
 ### Current Streak
  <a href="https://github.com/PatrickAlex2019">
