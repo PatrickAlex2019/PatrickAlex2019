@@ -21,13 +21,6 @@ Windows: Android Studio,Visual Studio,Photo Demon,Solid Works,Jadx,IDA,Figma
 
 Android: MT Manager,APK Editor,APK TOOL M,NP Manager,Photo Editor
 
-### Current Streak
- <a href="https://github.com/PatrickAlex2019">
-    <img align="center"
-         height="150em"
-         src="https://github-readme-streak-stats.herokuapp.com/?user=PatrickAlex2019&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" />
- </a>
-
 ### Used languages
  <a href="https://github.com/PatrickAlex2019">
     <img align="center"
