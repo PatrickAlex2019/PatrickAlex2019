@@ -1,11 +1,19 @@
-### Specialties
+
+<details>
+  <summary>Specialties</summary>
 
 [![Mechatronics%20design](https://img.shields.io/badge/-Mechatronics%20design-FF3D00?style=flat&logo=Mechatronics%20design&logoColor=white)](#)
 [![Automationl](https://img.shields.io/badge/-Automation-90A4AE?style=flat&logo=Automation&logoColor=white)](#)
 
-### Programming language
+</details>
+
+### Environment ＆ Grammatical language
 [![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=Android&logoColor=white)](#)
-[![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![JavaScript](https://img.shields.io/badge/javascript-%23f0dc55.svg?style=flat&logo=javascript&logoColor=black)](https://www.javascript.com/)
+[![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Smali](https://img.shields.io/badge/-Smali-7F52FF?style=flat&logo=Small&logoColor=white)](#)
 [![Maml](https://img.shields.io/badge/-Maml-FF8080?style=flat&logo=Small&logoColor=white)](#)
 
@@ -17,7 +25,11 @@ Good at reverse compilation and development, translation and modification of And
 [![Solid%20Works](https://img.shields.io/badge/-Solid%20Works-FFCA28?style=flat&logo=Solid%20Works&logoColor=white)](#)
 
 ### Compile & Draw tools used
-Windows: Android Studio,Visual Studio,Photo Demon,Solid Works,Jadx,IDA,Figma
+[![Android Studio](https://img.shields.io/badge/Android%20Studio-072F41.svg?style=flat&logo=android-studio&logoColor=3DDB83)](https://developer.android.com/studio)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-097dcd.svg?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![GitHub Actions](https://img.shields.io/badge/Github%20Actions-%23161b22.svg?style=flat&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+[![Figma](https://img.shields.io/badge/Figma-000000.svg?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
 
 Android: MT Manager,APK Editor,APK TOOL M,NP Manager,Photo Editor
 
@@ -41,8 +53,11 @@ Android: MT Manager,APK Editor,APK TOOL M,NP Manager,Photo Editor
 ![PatrickAlex's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickAlex2019&show_icons=true&theme=tokyonight)
 
 ### Devices
-![Windows 11 PC](https://img.shields.io/badge/Windows%2011-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
+[![Apple](https://img.shields.io/badge/Apple%20iPhone%20-%23000000.svg?style=flat&logo=apple&logoColor=white)](https://www.apple.com/iphone/)
+[![Xiaomi](https://img.shields.io/badge/Xiaomi%20-%23ff6e08.svg?style=flat&logo=xiaomi&logoColor=white)](https://www.mi.com/)
 
 ### Environment
-![Windows](https://img.shields.io/badge/Windows%2011-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
-![WSL2](https://img.shields.io/badge/Ubuntu%2022%2e04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
+![Windows](https://img.shields.io/badge/Windows%2011-00BBFF?style=flat&logo=Windows&logoColor=ffffff)
+[![Android](https://img.shields.io/badge/Android-3aab58?style=flat&logo=android&logoColor=white)](https://www.android.com/)
+[![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)](https://www.apple.com/ios/)
+![WSL2](https://img.shields.io/badge/Ubuntu%2022%2e04-dd4814?style=flat&logo=ubuntu&logoColor=ffffff)
