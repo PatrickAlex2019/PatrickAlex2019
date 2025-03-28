@@ -22,14 +22,14 @@
 ### Compile & Draw tools used
 <details>
   <summary>PC Program</summary>
-  
+
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-072f41.svg?style=flat&logo=android-studio&logoColor=3ddb83)](https://developer.android.com/studio) [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/) [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-097dcd.svg?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) [![GitHub Actions](https://img.shields.io/badge/Github%20Actions-%23161b22.svg?style=flat&logo=githubactions&logoColor=white)](https://github.com/features/actions) [![Figma](https://img.shields.io/badge/Figma-000000.svg?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
 
 </details>
 
 <details>
   <summary>Android App</summary>
-    MT Manager,APK Editor,APK TOOL M,NP Manager,Photo Editor
+    MT Manager｜APK Editor｜APK TOOL M｜NP Manager｜Photo Editor
 </details>
 
 ### Used languages
