@@ -32,14 +32,6 @@
     MT Manager｜APK Editor｜APK TOOL M｜NP Manager｜Photo Editor
 </details>
 
-### Used languages
- <a href="https://github.com/PatrickAlex2019">
-    <img align="center"
-         height="150em"
-         src="https://github-readme-stats.vercel.app/api/top-langs?username=PatrickAlex2019&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact"
-    />
- </a>
-
 ### Rating
   <a href="https://github.com/PatrickAlex2019">
     <img
@@ -47,9 +39,6 @@
       src="https://github-profile-trophy.vercel.app/?username=PatrickAlex2019&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
   </a>
 </a>
-
-### Stats
-![PatrickAlex's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickAlex2019&show_icons=true&theme=tokyonight)
 
 ### Devices
 [![Apple](https://img.shields.io/badge/Apple%20iPhone%20-%23000000.svg?style=flat&logo=apple&logoColor=white)](https://www.apple.com/iphone/)
