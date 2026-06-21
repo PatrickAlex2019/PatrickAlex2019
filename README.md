@@ -32,14 +32,6 @@
     MT Manager｜APK Editor｜APK TOOL M｜NP Manager｜Photo Editor
 </details>
 
-### Rating
-  <a href="https://github.com/PatrickAlex2019">
-    <img
-      align="center"
-      src="https://github-profile-trophy.vercel.app/?username=PatrickAlex2019&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
-  </a>
-</a>
-
 ### Devices
 [![Apple](https://img.shields.io/badge/Apple%20iPhone%20-%23000000.svg?style=flat&logo=apple&logoColor=white)](https://www.apple.com/iphone/)
 [![Xiaomi](https://img.shields.io/badge/Xiaomi%20-%23ff6e08.svg?style=flat&logo=xiaomi&logoColor=white)](https://www.mi.com/)
