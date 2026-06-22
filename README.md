@@ -9,11 +9,6 @@
 [![Smali](https://img.shields.io/badge/smali-7f52ff?style=flat&logo=Small&logoColor=white)](#)
 [![Maml](https://img.shields.io/badge/maml-ff8080?style=flat&logo=Small&logoColor=white)](#)
 
-<details>
-  <summary>Personal description</summary>
-    Good at reverse compilation and development, translation and modification of Android software, redesign of application interface
-</details>
-
 ### WIP
 [![PLC](https://img.shields.io/badge/-PLC-ce93d8?style=flat&logo=PLC&logoColor=white)](#)
 [![CAD](https://img.shields.io/badge/-CAD-ffb74d?style=flat&logo=CAD&logoColor=white)](#)
@@ -41,3 +36,8 @@
 [![Android](https://img.shields.io/badge/Android-3aab58?style=flat&logo=android&logoColor=white)](https://www.android.com/)
 [![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)](https://www.apple.com/ios/)
 ![WSL2](https://img.shields.io/badge/Ubuntu%2022%2e04-dd4814?style=flat&logo=ubuntu&logoColor=ffffff)
+
+<details>
+  <summary>Project Cooperation Members</summary>
+    Crazy King｜司南｜Luoluo（YaoYao）｜سليمان｜MonetCarlos｜Mateo...
+</details>
