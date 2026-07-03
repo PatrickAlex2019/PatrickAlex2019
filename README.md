@@ -30,9 +30,9 @@
 ### Environment
 [![MacOS](https://img.shields.io/badge/MacOS-000000?style=flat&logo=MacOS&logoColor=white)](https://www.apple.com/ios/)
 ![Windows](https://img.shields.io/badge/Windows%2011-00bbff?style=flat&logo=Windows&logoColor=ffffff)
+![WSL2](https://img.shields.io/badge/Ubuntu%2022%2e04-dd4814?style=flat&logo=ubuntu&logoColor=ffffff)
 [![Android](https://img.shields.io/badge/Android-3aab58?style=flat&logo=android&logoColor=white)](https://www.android.com/)
 [![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)](https://www.apple.com/ios/)
-![WSL2](https://img.shields.io/badge/Ubuntu%2022%2e04-dd4814?style=flat&logo=ubuntu&logoColor=ffffff)
 
 <details>
   <summary>Project Cooperation Members</summary>
