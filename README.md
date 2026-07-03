@@ -9,11 +9,6 @@
 [![Smali](https://img.shields.io/badge/smali-7f52ff?style=flat&logo=Small&logoColor=white)](#)
 [![Maml](https://img.shields.io/badge/maml-ff8080?style=flat&logo=Small&logoColor=white)](#)
 
-### WIP
-[![PLC](https://img.shields.io/badge/-PLC-ce93d8?style=flat&logo=PLC&logoColor=white)](#)
-[![CAD](https://img.shields.io/badge/-CAD-ffb74d?style=flat&logo=CAD&logoColor=white)](#)
-[![Solid%20Works](https://img.shields.io/badge/-Solid%20Works-ffca28?style=flat&logo=Solid%20Works&logoColor=white)](#)
-
 ### Compile & Draw tools used
 <details>
   <summary>PC Program</summary>
