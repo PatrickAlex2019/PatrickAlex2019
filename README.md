@@ -27,11 +27,13 @@
     MT Manager｜APK Editor｜APK TOOL M｜NP Manager｜Photo Editor
 </details>
 
-### Devices
+### Mobile Devices
 [![Apple](https://img.shields.io/badge/Apple%20iPhone%20-%23000000.svg?style=flat&logo=apple&logoColor=white)](https://www.apple.com/iphone/)
 [![Xiaomi](https://img.shields.io/badge/Xiaomi%20-%23ff6e08.svg?style=flat&logo=xiaomi&logoColor=white)](https://www.mi.com/)
+[![OPPO](https://img.shields.io/badge/OPPO%20-%23000000.svg?style=flat&logo=OPPO&logoColor=white)](https://www.oppo.com/cn/about/)
 
 ### Environment
+[![MacOS](https://img.shields.io/badge/MacOS-000000?style=flat&logo=MacOS&logoColor=white)](https://www.apple.com/ios/)
 ![Windows](https://img.shields.io/badge/Windows%2011-00bbff?style=flat&logo=Windows&logoColor=ffffff)
 [![Android](https://img.shields.io/badge/Android-3aab58?style=flat&logo=android&logoColor=white)](https://www.android.com/)
 [![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)](https://www.apple.com/ios/)
